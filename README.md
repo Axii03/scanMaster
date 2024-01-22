@@ -2,7 +2,7 @@
 A bash script to automate a part of the recon stage
 
 
-##Overview
+## Overview
 
 This script is used to automate the initial part of the recon stage when testing so that it will simplify the initial process.This will come in handy as it can be used specifically in Tryhackme or CTF boxes to automate this intial recon stage  
 
@@ -14,7 +14,7 @@ The script will run:
 
 
 
-##How to use
+## How to use
 
 ./scanMaster.sh &lt;ip address&gt;
 
